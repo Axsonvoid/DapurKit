@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "Nasi Goreng Kampung",
+    "description": "Nasi goreng dengan bumbu rempah, telur, dan kerupuk. Pedas sedang.",
+    "image": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,f_auto,q_auto:best,w_640/v1609554105/am2fkajc7szj8gxcjmrn.jpg?auto=compress&cs=tinysrgb&w=400",
+    "cookTime": "15 min",
+    "tags": ["Seimbang", "Cepat"],
+    "allergens": ["eggs"],
+    "nutrition": { "calories": 520, "protein": 15, "carbs": 65, "fat": 18 },
+    "steps": ["Tumis bumbu halus", "Masukkan nasi dan telur", "Aduk rata, sajikan dengan kerupuk"]
+  },
+  {
+    "id": 2,
+    "name": "Ayam Betutu",
+    "description": "Ayam utuh dengan bumbu base genep, khas Bali. Gurih dan pedas.",
+    "image": "https://thumb.viva.id/intipseleb/1265x711/2023/07/26/64c12df108917-resep-ayam-betutu-bali.jfif?auto=compress&cs=tinysrgb&w=400",
+    "cookTime": "25 min",
+    "tags": ["Seimbang"],
+    "allergens": [],
+    "nutrition": { "calories": 680, "protein": 42, "carbs": 18, "fat": 28 },
+    "steps": ["Lumuri ayam dengan bumbu", "Bungkus daun pisang", "Panggang 45 menit"]
+  },
+  {
+    "id": 3,
+    "name": "Gado-Gado",
+    "description": "Sayuran rebus dengan bumbu kacang, telur, dan lontong. Vegetarian.",
+    "image": "https://refina.co.id/wp-content/uploads/2014/10/gado-gado-surabaya.jpg?auto=compress&cs=tinysrgb&w=400",
+    "cookTime": "20 min",
+    "tags": ["Vegetarian", "Seimbang"],
+    "allergens": ["nuts"],
+    "nutrition": { "calories": 450, "protein": 12, "carbs": 55, "fat": 20 },
+    "steps": ["Rebus sayuran", "Buat bumbu kacang", "Sajikan dengan lontong"]
+  },
+  {
+    "id": 4,
+    "name": "Salmon Panggang",
+    "description": "Salmon dengan sayuran segar, dressing lemon. Rendah karbohidrat.",
+    "image": "https://www.thespruceeats.com/thmb/WRW_ommm7c9nej5PHOnLxZYcMWU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/pan-seared-salmon-recipe-5498576-hero-01-ba14de427f064aacb8763704cd5d56bd.jpg?auto=compress&cs=tinysrgb&w=400",
+    "cookTime": "12 min",
+    "tags": ["Rendah Karbohidrat", "Cepat"],
+    "allergens": ["shellfish"],
+    "nutrition": { "calories": 380, "protein": 34, "carbs": 4, "fat": 24 },
+    "steps": ["Marinasi salmon", "Panggang 10 menit", "Sajikan dengan asparagus"]
+  },
+  {
+    "id": 5,
+    "name": "Tumis Tauge Tahu",
+    "description": "Tauge segar dengan tahu, kecap asin, dan bawang putih.",
+    "image": "https://img-global.cpcdn.com/recipes/4f5ebd2d71fd630a/680x781cq80/tumis-tauge-tahu-foto-resep-utama.jpg?auto=compress&cs=tinysrgb&w=400",
+    "cookTime": "10 min",
+    "tags": ["Vegetarian", "Cepat"],
+    "allergens": ["soy"],
+    "nutrition": { "calories": 210, "protein": 12, "carbs": 20, "fat": 10 },
+    "steps": ["Tumis bawang putih", "Masukkan tahu dan tauge", "Tambahkan kecap"]
+  },
+  {
+    "id": 6,
+    "name": "Kari Kambing",
+    "description": "Kari kambing dengan rempah kaya, santan. Pedas level bisa disesuaikan.",
+    "image": "https://static.wixstatic.com/media/95a0a4_369ceb9746cb4a7094a13c4c8644cc6b~mv2.png/v1/fill/w_546,h_546,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/95a0a4_369ceb9746cb4a7094a13c4c8644cc6b~mv2.png?auto=compress&cs=tinysrgb&w=400",
+    "cookTime": "30 min",
+    "tags": ["Seimbang"],
+    "allergens": ["dairy"],
+    "nutrition": { "calories": 720, "protein": 38, "carbs": 15, "fat": 45 },
+    "steps": ["Tumis bumbu kari", "Masukkan daging kambing", "Tambahkan santan, masak hingga empuk"]
+  },
+  {
+    "id": 7,
+    "name": "Soto Ayam",
+    "description": "Soto ayam bening dengan suwiran ayam, telur, dan sambal.",
+    "image": "https://www.dapurkobe.co.id/wp-content/uploads/soto-ayam.jpg?auto=compress&cs=tinysrgb&w=400",
+    "cookTime": "20 min",
+    "tags": ["Seimbang", "Cepat"],
+    "allergens": [],
+    "nutrition": { "calories": 390, "protein": 28, "carbs": 35, "fat": 12 },
+    "steps": ["Rebus ayam dengan bumbu", "Suwir ayam", "Sajikan dengan pelengkap"]
+  },
+  {
+    "id": 8,
+    "name": "Pasta Alfredo",
+    "description": "Pasta dengan saus krim keju, jamur, dan ayam.",
+    "image": "https://images.aws.nestle.recipes/resized/0a0717810b73a1672a029c29788e557b_creamy_alfredo_pasta_long_left_560_340.jpg?auto=compress&cs=tinysrgb&w=400",
+    "cookTime": "15 min",
+    "tags": ["Cepat"],
+    "allergens": ["dairy", "gluten"],
+    "nutrition": { "calories": 680, "protein": 22, "carbs": 70, "fat": 32 },
+    "steps": ["Rebus pasta", "Buat saus alfredo", "Campur dan sajikan"]
+  },
+  {
+    "id": 9,
+    "name": "Bowl Buddha",
+    "description": "Quinoa, alpukat, edamame, dan sayuran segar dengan saus tahini.",
+    "image": "https://www.gourmetgarden.com/-/media/project/oneweb/gg21/recipes/buddha-bowl-800x800.webp?rev=-1&vd=00010101T000000Z&extension=webp&hash=47F1C6B5027FB86D185BC549CEA959FF?auto=compress&cs=tinysrgb&w=400",
+    "cookTime": "10 min",
+    "tags": ["Vegetarian", "Rendah Karbohidrat", "Cepat"],
+    "allergens": ["soy", "nuts"],
+    "nutrition": { "calories": 470, "protein": 16, "carbs": 50, "fat": 22 },
+    "steps": ["Siapkan quinoa", "Potong sayuran", "Siram saus tahini"]
+  },
+  {
+    "id": 10,
+    "name": "Rendang Sapi",
+    "description": "Rendang sapi khas Padang, dimasak dengan santan dan rempah hingga kering.",
+    "image": "https://pict.sindonews.com/dyn/850/pena/news/2020/07/30/185/118358/resep-bikin-rendang-sapi-yang-kelezatannya-dikenal-dunia-uph.jpg?auto=compress&cs=tinysrgb&w=400",
+    "cookTime": "45 min",
+    "tags": ["Seimbang"],
+    "allergens": ["dairy"],
+    "nutrition": { "calories": 890, "protein": 48, "carbs": 25, "fat": 62 },
+    "steps": ["Tumis bumbu", "Masukkan daging dan santan", "Masak hingga kuah menyusut"]
+  },
+  {
+    "id": 11,
+    "name": "Capcay Goreng",
+    "description": "Sayuran campur dengan bakso dan udang, saus tiram.",
+    "image": "https://assets.unileversolutions.com/recipes-v2/257544.jpg?auto=compress&cs=tinysrgb&w=400",
+    "cookTime": "12 min",
+    "tags": ["Cepat"],
+    "allergens": ["shellfish"],
+    "nutrition": { "calories": 280, "protein": 18, "carbs": 25, "fat": 12 },
+    "steps": ["Tumis bawang putih", "Masukkan sayuran", "Tambahkan saus tiram"]
+  },
+  {
+    "id": 12,
+    "name": "Mie Goreng Jawa",
+    "description": "Mie dengan ayam, sayur, dan kerupuk. Manis gurih.",
+    "image": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,f_auto,q_auto:best,w_640/v1609056054/chao3cepvnt9rhsdywm1.png?auto=compress&cs=tinysrgb&w=400",
+    "cookTime": "15 min",
+    "tags": ["Seimbang", "Cepat"],
+    "allergens": ["eggs", "gluten"],
+    "nutrition": { "calories": 580, "protein": 22, "carbs": 85, "fat": 18 },
+    "steps": ["Rebus mie", "Tumis bumbu dan ayam", "Campur mie, sajikan"]
+  },
+  {
+    "id": 13,
+    "name": "Pepes Ikan Mas",
+    "description": "Ikan mas dengan bumbu kuning, dibungkus daun pisang, dibakar hingga harum.",
+    "image": "https://cdn0-production-images-kly.akamaized.net/c4ASount_teKN-PwcLx-ejd4Qxg=/0x64:999x627/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4341755/original/028075400_1677641966-shutterstock_1150963166.jpg?auto=compress&cs=tinysrgb&w=400",
+    "cookTime": "35 min",
+    "tags": ["Seimbang"],
+    "allergens": ["shellfish"],
+    "nutrition": { "calories": 540, "protein": 48, "carbs": 8, "fat": 32 },
+    "steps": ["Lumuri ikan dengan bumbu", "Bungkus daun pisang", "Kukus 20 menit, lalu bakar"]
+  },
+  {
+    "id": 14,
+    "name": "Tempe Mendoan",
+    "description": "Tempe tipis dengan tepung berbumbu, digoreng setengah matang. Renyah di luar, lembut dalam.",
+    "image": "https://img-global.cpcdn.com/recipes/8b9b73c8e20e5239/1200x630cq80/photo.jpg?auto=compress&cs=tinysrgb&w=400",
+    "cookTime": "10 min",
+    "tags": ["Vegetarian", "Cepat"],
+    "allergens": ["soy"],
+    "nutrition": { "calories": 240, "protein": 14, "carbs": 18, "fat": 12 },
+    "steps": ["Celup tempe ke adonan tepung", "Goreng sebentar", "Sajikan dengan cabai rawit"]
+  },
+  {
+    "id": 15,
+    "name": "Sate Ayam",
+    "description": "Tusuk daging ayam dengan bumbu kacang, kecap, dan irisan bawang merah.",
+    "image": "https://www.dapurkobe.co.id/wp-content/uploads/sate-ayam.jpg?auto=compress&cs=tinysrgb&w=400",
+    "cookTime": "20 min",
+    "tags": ["Seimbang", "Cepat"],
+    "allergens": ["nuts"],
+    "nutrition": { "calories": 490, "protein": 35, "carbs": 25, "fat": 24 },
+    "steps": ["Tusuk daging ayam", "Bakar hingga matang", "Sajikan dengan bumbu kacang"]
+  },
+  {
+    "id": 16,
+    "name": "Sayur Asem",
+    "description": "Sayur segar dengan asam jawa, kacang panjang, dan melinjo. Kuah bening segar.",
+    "image": "https://assets.unileversolutions.com/recipes-v2/258332.jpg?auto=compress&cs=tinysrgb&w=400",
+    "cookTime": "25 min",
+    "tags": ["Vegetarian", "Seimbang"],
+    "allergens": [],
+    "nutrition": { "calories": 150, "protein": 5, "carbs": 28, "fat": 3 },
+    "steps": ["Rebus air dengan bumbu", "Masukkan sayuran", "Tambahkan asam jawa, masak hingga empuk"]
+  },
+  {
+    "id": 17,
+    "name": "Pizza Margherita (Homemade)",
+    "description": "Pizza dengan saus tomat, mozzarella, dan daun basil. Tidak perlu oven khusus.",
+    "image": "https://www.tasteofhome.com/wp-content/uploads/2024/03/Margherita-Pizza-_EXPS_TOHVP24_275515_MF_02_28_1.jpg?auto=compress&cs=tinysrgb&w=400",
+    "cookTime": "25 min",
+    "tags": ["Vegetarian", "Cepat"],
+    "allergens": ["dairy", "gluten"],
+    "nutrition": { "calories": 630, "protein": 24, "carbs": 72, "fat": 26 },
+    "steps": ["Buat adonan pizza tipis", "Oles saus tomat, tabur keju", "Panggang di wajan anti lengket"]
+  },
+  {
+    "id": 18,
+    "name": "Bubur Ayam",
+    "description": "Bubur nasi dengan suwiran ayam, cakwe, dan kacang kedelai. Hangat dan mengenyangkan.",
+    "image": "https://images.alodokter.com/dk0z4ums3/image/upload/v1768895079/attached_image/5-manfaat-bubur-ayam-dan-tips-mengonsumsinya.jpg?auto=compress&cs=tinysrgb&w=400",
+    "cookTime": "30 min",
+    "tags": ["Seimbang", "Cepat"],
+    "allergens": ["soy"],
+    "nutrition": { "calories": 360, "protein": 18, "carbs": 55, "fat": 8 },
+    "steps": ["Masak nasi dengan kaldu ayam hingga bubur", "Sajikan dengan topping ayam, cakwe, kacang"]
+  },
+  {
+    "id": 19,
+    "name": "Steak Tempe",
+    "description": "Tempe berbumbu, dipanggang, disajikan dengan saus barbeku dan sayuran panggang.",
+    "image": "https://www.dapurkobe.co.id/wp-content/uploads/steak-tempe.jpg?auto=compress&cs=tinysrgb&w=400",
+    "cookTime": "20 min",
+    "tags": ["Vegetarian", "Rendah Karbohidrat"],
+    "allergens": ["soy"],
+    "nutrition": { "calories": 320, "protein": 20, "carbs": 25, "fat": 16 },
+    "steps": ["Haluskan bumbu, lumuri tempe", "Panggang di teflon", "Sajikan dengan saus dan sayuran"]
+  },
+  {
+    "id": 20,
+    "name": "Es Campur",
+    "description": "Minuman penutup segar: alpukat, kolang-kaling, cincau, kelapa muda, sirup cocopandan.",
+    "image": "https://wiratech.co.id/wp-content/uploads/2025/09/es-campur-untuk-usaha.jpg?auto=compress&cs=tinysrgb&w=400",
+    "cookTime": "10 min",
+    "tags": ["Cepat", "Vegetarian"],
+    "allergens": [],
+    "nutrition": { "calories": 280, "protein": 3, "carbs": 60, "fat": 5 },
+    "steps": ["Potong semua buah dan jelly", "Campur dengan es serut", "Siram sirup dan susu kental manis"]
+  }
+]
