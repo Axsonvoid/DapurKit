@@ -18,29 +18,29 @@ import Payment from './pages/Payment';
 
 function App() {
   return (
-    <UserProvider>
-      <CartProvider>
-        <BrowserRouter>
-          <Routes>
-            <Route path="/" element={<Layout />}>
-              <Route index element={<Landing />} />
-              <Route path="survey" element={<Survey />} />
-              <Route path="plan" element={<PlanSelection />} />
-              <Route path="recipes" element={<BrowseRecipes />} />
-              <Route path="checkout" element={<Checkout />} />
-              <Route path="success" element={<Success />} />
-              <Route path="login" element={<Login />} />
-              {/* Dashboard routes (protected – requires login) */}
-              <Route path="dashboard" element={<ProtectedRoute><Dashboard /></ProtectedRoute>} />
-              <Route path="orders" element={<ProtectedRoute><Orders /></ProtectedRoute>} />
-              <Route path="addresses" element={<ProtectedRoute><Addresses /></ProtectedRoute>} />
-              <Route path="profile" element={<ProtectedRoute><Profile /></ProtectedRoute>} />
-              <Route path="payment" element={<ProtectedRoute><Payment /></ProtectedRoute>} />
-            </Route>
-          </Routes>
-        </BrowserRouter>
-      </CartProvider>
-    </UserProvider>
+    <BrowserRouter basename="/DapurKit">
+      <UserProvider>
+        <CartProvider>
+            <Routes>
+              <Route path="/" element={<Layout />}>
+                <Route index element={<Landing />} />
+                <Route path="survey" element={<Survey />} />
+                <Route path="plan" element={<PlanSelection />} />
+                <Route path="recipes" element={<BrowseRecipes />} />
+                <Route path="checkout" element={<Checkout />} />
+                <Route path="success" element={<Success />} />
+                <Route path="login" element={<Login />} />
+                {/* Dashboard routes (protected – requires login) */}
+                <Route path="dashboard" element={<ProtectedRoute><Dashboard /></ProtectedRoute>} />
+                <Route path="orders" element={<ProtectedRoute><Orders /></ProtectedRoute>} />
+                <Route path="addresses" element={<ProtectedRoute><Addresses /></ProtectedRoute>} />
+                <Route path="profile" element={<ProtectedRoute><Profile /></ProtectedRoute>} />
+                <Route path="payment" element={<ProtectedRoute><Payment /></ProtectedRoute>} />
+              </Route>
+            </Routes>
+        </CartProvider>
+      </UserProvider>
+    </BrowserRouter>
   );
 }
 
